@@ -39,5 +39,5 @@ Let us substitute our new variables in the left hand side of \eqref{eq:shift},
 \begin{align}
 e^{\frac{a}{\phi'(y)}\partial_y}g(y) = g(\phi^{-1}(\phi(y) + a)).
 \end{align}
-This is the generalised form of the Shift operator. Finding the right hand side is just a matter of solving the differential equation $\phi'(y)=\text{function of y}$. For example choosing 
+This is the generalised form of the Shift operator. Finding the right hand side is just a matter of solving the differential equation $\phi'(y)=\text{function of y}$. For example choosing
 $\phi'(y) = 1/y$ results in scaling $g(y)\rightarrow g(\lambda y)$ where $\lambda$ can be written in terms of $a$. You can read more about this generalised operator and its effects in this wikipedia [article](https://en.wikipedia.org/wiki/Shift_operator).
