@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rashid Alawadhi
-title:  "The Founder Effect in Languages"
+title:  "Inflation and Savings"
 date:   2024-11-20
 categories: maths, finance, economics
 ---
