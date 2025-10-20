@@ -2,7 +2,7 @@
 layout: post
 author: Rashid Alawadhi
 title:  "Inflation and Savings"
-date:   2024-11-20
+date:   2025-10-20
 categories: maths, finance, economics
 ---
 
