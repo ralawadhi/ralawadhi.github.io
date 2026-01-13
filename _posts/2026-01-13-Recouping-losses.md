@@ -20,6 +20,6 @@ So if our stock loses 30% of its value, a much catasrophic loss than our earlier
 
 The require gain increases exponentially with respect to the loss. For small value of $\ell$ the gain increases mostly linearly, hence $\ell = 5\%\approx g$. This can be shown by Taylor expanding the equation for $g$
 
-$$g = \ell + \ell^2 + \mathcal{O}(\ell^3).$$ 
+$$g = \ell + \ell^2 + \mathcal{O}(\ell^3).$$
 
 This is why some people would advise you to sell if the losses reach a certain percentage. It is much more difficult to recoup losses, especially the bigger the loss is.
