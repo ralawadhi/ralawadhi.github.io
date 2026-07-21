@@ -6,7 +6,7 @@ date:   2026-07-21
 categories: maths, physics, PDE, infinite, sum
 ---
 
-While brushing up on topics related to PDEs, initial values, and boundary conditions, I have come across the problem of solving the heat equation for the case of a ball immersed in water. I got to know that a function arises from considering the temperature at the centre of the ball; the [[Theta function]]. Here is how it arises from the problem.
+While brushing up on topics related to PDEs, initial values, and boundary conditions, I have come across the problem of solving the heat equation for the case of a ball immersed in water. I got to know that a function arises from considering the temperature at the centre of the ball; the Theta function. Here is how it arises from the problem.
 
 Suppose we have a solid ball of radius $a$ heated to a uniform constant temperature $u(r, t)=1$ inside the ball and then immersing it in water to cool it down. The phenomenon is described by the heat equation in spherical polar coordinates:
 
