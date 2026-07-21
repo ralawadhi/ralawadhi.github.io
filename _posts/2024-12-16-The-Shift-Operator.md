@@ -13,7 +13,7 @@ The shift operator was once such object we were taught about in my course. Suppo
 \begin{align}
 \hat{T}(a)f(x) = f(x+a),
 \end{align}
-where $a$ is a real consonant. This notation for $\hat{T}(a)$ means that it shofts the function by $a$. One can define the shift operator by $\hat{T}(a) = e^{a\partial_x}$ where $e$ is the exponential map. We can check that this is the correct expression for $\hat{T}(a)$ by expanding both the operator and function
+where $a$ is a real consonant. This notation for $\hat{T}(a)$ means that it shifts the function by $a$. One can define the shift operator by $\hat{T}(a) = e^{a\partial_x}$ where $e$ is the exponential map. We can check that this is the correct expression for $\hat{T}(a)$ by expanding both the operator and function
 
 \begin{align}\label{eq:shift}
 e^{a\partial_x}f(x) = \sum_{n=0}\frac{(a\partial_x)^n}{n!} \sum_{i=0}f^{(i)}(0)\frac{x^i}{i!},
